@@ -14,13 +14,5 @@ This is a plugin for AMXX which adds menu with servers list and allows players t
 
 <br />
 
-# Requirements:
-
-<br />
-
-# Special Thanks to:
-
-<br />
-
 # Changelog:
     - v1.0: First Version
