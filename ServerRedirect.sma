@@ -16,7 +16,7 @@
 *
 * Description:
 * ============
-* 
+* This plugin adds menu with servers list and allows players to be redirected from current server to another server from the list.
 *
 *****************************************************************/
 
